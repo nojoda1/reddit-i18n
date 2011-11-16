@@ -100,7 +100,7 @@ msgstr "demasiadas imágenes (solamente obtendrás %d )"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Imagen inválida o error general de imagen"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -116,15 +116,15 @@ msgstr "un mensaje será enviado pronto a esa dirección de correo electrónico"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "intenta nuevamente mañana"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "clase css inválida"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "demasiadas clases css"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
@@ -211,11 +211,11 @@ msgstr "el nombre de usuario no esta disponible"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "el nombre de usuario ya fue tomado por una cuenta eliminada"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "no puedes enviar a un usuario al que has bloqueado"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -227,7 +227,7 @@ msgstr "no puedes hacer eso"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "has ingresado como ese usuario"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
@@ -317,7 +317,7 @@ msgstr "no tienes permiso para postear ahí."
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "debes especificar un subreddit"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -400,7 +400,7 @@ msgstr "necesitamos algo aquí"
 
 #: r2/controllers/errors.py:82
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "nunca antes hemos visto ese código"
 
 #: r2/controllers/errors.py:83
 msgid "that code has already been claimed -- perhaps by you?"
@@ -428,15 +428,15 @@ msgstr ""
 
 #: r2/controllers/errors.py:89
 msgid "invalid client id"
-msgstr ""
+msgstr "id de cliente es inválido"
 
 #: r2/controllers/errors.py:90
 msgid "access denied by the user"
-msgstr ""
+msgstr "acceso denegado por el usuario"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
-msgstr ""
+msgstr "por favor, confirma el formulario"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
@@ -452,27 +452,27 @@ msgstr ""
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "ningún comentario (aun)"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "todos los %d comentarios"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "los primeros %d comentarios"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "mostrar todos (%d)"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "mostrar %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -480,7 +480,7 @@ msgstr "crear un reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "crear una comunidad"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -525,7 +525,7 @@ msgstr "bienvenid@ nuevamente"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "gracias"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
@@ -534,7 +534,7 @@ msgstr ""
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "buen intento."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
@@ -559,7 +559,7 @@ msgstr ""
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Tu obsequio a %s ha sido entregado."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -649,11 +649,11 @@ msgstr "comentarios"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Mi identidad"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Introducir mi usuario reddit y fecha de registro"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -705,7 +705,7 @@ msgstr "por favor elige un país"
 
 #: r2/controllers/validator/validator.py:1492
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
+msgstr "Nuestros Términos de Servicio no contemplan tu país (aun). Lo lamentamos."
 
 #: r2/controllers/validator/validator.py:1511
 msgid "credit card numbers should be 13 to 16 digits"
@@ -721,11 +721,11 @@ msgstr "el código de verificación debe ser de 3 o 4 dígitos"
 
 #: r2/lib/cssfilter.py:307
 msgid "if you need backslashes, you're doing it wrong"
-msgstr "si necesitas barras invertidas algo estás haciendo mal"
+msgstr "si necesitas barras invertidas, lo estás haciendo mal"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[eliminado]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
@@ -857,7 +857,7 @@ msgstr "cerrar sesión"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "contáctanos"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
@@ -1695,7 +1695,7 @@ msgstr ""
 #: r2/lib/strings.py:160
 #, python-format
 msgid "You are currently accessing reddit from this IP address: %(address)s."
-msgstr ""
+msgstr "Actualmente accedes a reddit desde esta dirección IP: %(address)s"
 
 #: r2/lib/strings.py:227 r2/lib/strings.py:232 r2/lib/template_helpers.py:197
 #: r2/templates/subredditstylesheet.html:277
@@ -2003,15 +2003,15 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:2658
 msgid "user"
-msgstr ""
+msgstr "usuario"
 
 #: r2/lib/pages/pages.py:2658
 msgid "note"
-msgstr ""
+msgstr "nota"
 
 #: r2/lib/pages/pages.py:2658
 msgid "friendship"
-msgstr ""
+msgstr "amistad"
 
 #: r2/lib/pages/pages.py:2664
 msgid "add a friend"
@@ -2023,7 +2023,7 @@ msgstr "tus amigos"
 
 #: r2/lib/pages/pages.py:2696
 msgid "blocked users"
-msgstr ""
+msgstr "usuarios bloqueados"
 
 #: r2/lib/pages/pages.py:2712
 msgid "add approved submitter"
@@ -2057,7 +2057,7 @@ msgstr "visitas actuales"
 
 #: r2/lib/pages/pages.py:3731 r2/templates/accountactivitybox.html:24
 msgid "account activity"
-msgstr ""
+msgstr "actividad de la cuenta"
 
 #: r2/models/builder.py:103
 #, python-format
@@ -2071,11 +2071,11 @@ msgstr "label_template"
 #: r2/models/link.py:530
 #, python-format
 msgid "approved by %s"
-msgstr ""
+msgstr "aprobado por %s"
 
 #: r2/models/link.py:532
 msgid "approved by a moderator"
-msgstr ""
+msgstr "aprobado por un moderador"
 
 #: r2/models/link.py:805
 msgid "comment score below threshold"
@@ -2083,7 +2083,7 @@ msgstr "puntaje del comentario debajo del límite"
 
 #: r2/models/link.py:810
 msgid "blocked user"
-msgstr ""
+msgstr "usuario bloqueado"
 
 #: r2/models/link.py:1125
 msgid "comment reply"
