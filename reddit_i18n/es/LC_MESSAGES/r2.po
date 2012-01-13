@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Juan Ochoa <juanluis182@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -100,15 +100,15 @@ msgstr "demasiadas imágenes (solamente obtendrás %d )"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Imagen inválida o error general de imagen"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "¡reclamado, ahora ve a la página de usuario de alguien otórgale un regalo! "
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "¡reclamado!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
@@ -116,7 +116,7 @@ msgstr "un mensaje será enviado pronto a esa dirección de correo electrónico"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "intente de nuevo mañana"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
@@ -211,7 +211,7 @@ msgstr "el nombre de usuario no esta disponible"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "ese nombre de usuario ya fue tomado por una cuenta eliminada"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
@@ -408,15 +408,15 @@ msgstr ""
 
 #: r2/controllers/errors.py:84
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "ese reddit no permite publicaciones de texto"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "ese reddit solo permite publicaciones de texto"
 
 #: r2/controllers/errors.py:86
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "eso es una pedazo de historia, es muy tarde para responderle"
 
 #: r2/controllers/errors.py:87
 msgid "invalid css name"
